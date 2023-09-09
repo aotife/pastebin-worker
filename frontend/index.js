@@ -106,7 +106,7 @@ window.addEventListener('load', () => {
       submitButton.text('Update')
       deleteButton.removeClass('hidden')
     } else {
-      submitButton.text('Submit')
+      submitButton.text('保存')
       deleteButton.addClass('hidden')
     }
 
